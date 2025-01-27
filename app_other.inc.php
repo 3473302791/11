@@ -1,0 +1,1 @@
+<?phpif(!defined('IN_DISCUZ') || !defined('IN_ADMINCP')) {    exit('Access Denied');}dheader('Location: http://www.yunmianqian.net');?>
